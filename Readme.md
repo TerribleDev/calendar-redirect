@@ -1,0 +1,1 @@
+A simple app to redirect cal.terrible.dev to calendly
